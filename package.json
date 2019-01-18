@@ -1,0 +1,8 @@
+{
+  "name": "lti-html-tester",
+  "version": "1.0.0",
+  "dependencies": {
+    "oauth-sign": "*",
+    "browserify": "*"
+  }
+}
